@@ -74,7 +74,7 @@
 						<td>
 							<a href="javascript:;" onclick="popup('${tbl.id}')"></a>
 							<a href="/go_full?movieId=${tbl.id}"></a>
-							<a href="/file/movie/file/${tbl.id}" download="${tbl.title}.zip"></a>
+							<a href="javascript:;" onclick="export()"></a>
 							<a href="#" onclick="destructive('${tbl.id}', 'repair')"></a>
 							<a href="#" onclick="destructive('${tbl.id}', 'delete')"></a>
 						</td>
@@ -113,6 +113,10 @@
 		function popup(id) {
 			window.open('/player?movieId=' + id, 'Loading your Video... - GoAnimate', 'width=1280,height=720,left=' + (screen.width / 2 - 640) +
 				',top=' + (screen.height / 2 - 360));
+		}
+		
+	function export() {
+		alert("Video exporting coming soon!");
 		}
 
 	</script>
