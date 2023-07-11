@@ -17,7 +17,7 @@ group.route("*", "/settings", (req, res) => {
 	res.render("settings", {});
 });
 // themelist page
-group.route("GET", "/create", (req, res) => {
+group.route("GET", "/videomaker", (req, res) => {
 	discord("Choosing a Theme");
 	const { TRUNCATED_THEMELIST } = DB.select();
 	res.render("create", { truncatedThemelist: TRUNCATED_THEMELIST });

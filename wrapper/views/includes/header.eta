@@ -19,6 +19,6 @@
 			</nav>
 		</div>
 		<a href="https://web.archive.org/web/20140421234539/http://goanimate.com/business/videoplans/?hook=header_button.site" class="button_small">Plans & Pricing</a>
-		<a href="http://localhost:4343/create" class="button_big">Make a Video</a>
+		<a href="http://localhost:4343/videomaker" class="button_big">Make a Video</a>
 	</nav>
 </header>
