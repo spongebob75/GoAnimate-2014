@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <theme id="vietnam" name="Jungle Warfare" cc_theme_id="cc2">
-	<background id="rw_checkpoint_bg.swf" name="Checkpoint" enable="N" default="N" is_premium="N" aid="12540" money="0" sharing="0"/>
-	<background id="rw_sky03_bg.swf" name="Skyline - Panning Right" enable="N" default="N" is_premium="N" aid="12551" money="0" sharing="0"/>
-	<background id="rw_sky02_bg.swf" name="Skyline" enable="N" default="N" is_premium="N" aid="12550" money="0" sharing="0"/>
-	<background id="rw_sky01_bg.swf" name="Skyline - Panning Left" enable="N" default="N" is_premium="N" aid="12549" money="0" sharing="0"/>
-	<background id="rw_river03_bg.swf" name="River - Panning Left" enable="N" default="N" is_premium="N" aid="12548" money="0" sharing="0"/>
-	<background id="rw_river02_bg.swf" name="River" enable="N" default="N" is_premium="N" aid="12547" money="0" sharing="0"/>
-	<background id="rw_river01_bg.swf" name="River - Panning Right" enable="N" default="N" is_premium="N" aid="12546" money="0" sharing="0"/>
+	<background id="rw_checkpoint_bg.swf" name="Checkpoint" enable="Y" default="N" is_premium="N" aid="12540" money="0" sharing="0"/>
+	<background id="rw_sky03_bg.swf" name="Skyline - Panning Right" enable="Y" default="N" is_premium="N" aid="12551" money="0" sharing="0"/>
+	<background id="rw_sky02_bg.swf" name="Skyline" enable="Y" default="N" is_premium="N" aid="12550" money="0" sharing="0"/>
+	<background id="rw_sky01_bg.swf" name="Skyline - Panning Left" enable="Y" default="N" is_premium="N" aid="12549" money="0" sharing="0"/>
+	<background id="rw_river03_bg.swf" name="River - Panning Left" enable="Y" default="N" is_premium="N" aid="12548" money="0" sharing="0"/>
+	<background id="rw_river02_bg.swf" name="River" enable="Y" default="N" is_premium="N" aid="12547" money="0" sharing="0"/>
+	<background id="rw_river01_bg.swf" name="River - Panning Right" enable="Y" default="N" is_premium="N" aid="12546" money="0" sharing="0"/>
 	<background id="rw_landing02_bg.swf" name="Grassland - Helicopter landing" enable="Y" default="N" is_premium="N" aid="12545" money="0" sharing="0"/>
 	<background id="rw_landing01_bg.swf" name="Grassland" enable="Y" default="Y" is_premium="N" aid="12544" money="0" sharing="0"/>
-	<background id="rw_forest04_bg.swf" name="Forest - Panning Right" enable="N" default="N" is_premium="N" aid="12543" money="0" sharing="0"/>
-	<background id="rw_forest03_bg.swf" name="Forest - Panning Left" enable="N" default="N" is_premium="N" aid="12542" money="0" sharing="0"/>
-	<background id="rw_forest02_bg.swf" name="Forest" enable="N" default="N" is_premium="N" aid="12541" money="0" sharing="0"/>
+	<background id="rw_forest04_bg.swf" name="Forest - Panning Right" enable="Y" default="N" is_premium="N" aid="12543" money="0" sharing="0"/>
+	<background id="rw_forest03_bg.swf" name="Forest - Panning Left" enable="Y" default="N" is_premium="N" aid="12542" money="0" sharing="0"/>
+	<background id="rw_forest02_bg.swf" name="Forest" enable="Y" default="N" is_premium="N" aid="12541" money="0" sharing="0"/>
 	<background id="rw_underground01_bg.swf" name="Hideout" enable="Y" default="N" is_premium="N" aid="12552" money="0" sharing="0"/>
 	<background id="rw_underground02_bg.swf" name="Hideout - explosions" enable="Y" default="N" is_premium="N" aid="12553" money="0" sharing="0"/>
 	<compositebg id="rw_checkpoint" name="Checkpoint" enable="Y" default="N" thumb="checkpoint_bg.jpg" display_order="0" is_premium="N" money="0" sharing="0" aid="12554">
@@ -155,8 +155,8 @@
 	</bg>
 </compositebg>
 	<prop id="rw_checkpoint01.swf" name="Gate" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="12476" money="0" sharing="0"/>
-	<prop id="rw_forest01.swf" name="Bushes" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="12477" money="0" sharing="0"/>
-	<prop id="rw_forest02.swf" name="Trees" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="12478" money="0" sharing="0"/>
+	<prop id="rw_forest01.swf" name="Bushes" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="12477" money="0" sharing="0"/>
+	<prop id="rw_forest02.swf" name="Trees" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="12478" money="0" sharing="0"/>
 	<prop id="rw_02kabar.swf" name="Combat knife" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="12479" money="0" sharing="0" handstyle="stick"/>
 	<prop id="msp_ncc_gun_car15" name="CAR-15" holdable="1" placeable="1" wearable="0" facing="left" thumb="msp_ncc_gun_car15_ncc_gun_still.swf" enable="Y" is_premium="N" aid="12480" money="0" sharing="0" handstyle="gun">
 		<tag>gun</tag>
@@ -241,4 +241,52 @@
 	</prop>
 	<prop id="rw_box.swf" name="Box" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="12538" money="0" sharing="0"/>
 	<prop id="rw_sandbag.swf" name="Sand bag" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="12539" money="0" sharing="0"/>
+
+<!--CHARACTERS-->
+<char id="40779341" name="Commander" cc_theme_id="cc2" thumbnail_url="stock_thumbs/40779341.png" copyable="Y">
+<tags>vietnam</tags>
+</char>
+<char id="41427171" name="Soldier" cc_theme_id="cc2" thumbnail_url="stock_thumbs/41427171.png" copyable="Y">
+<tags>vietnam</tags>
+</char>
+<char id="40791840" name="Woman Soldier" cc_theme_id="cc2" thumbnail_url="stock_thumbs/40791840.png" copyable="Y">
+<tags>vietnam</tags>
+</char>
+<char id="43732823" name="Soldier" cc_theme_id="cc2" thumbnail_url="stock_thumbs/43732823.png" copyable="Y">
+<tags>vietnam</tags>
+</char>
+<char id="55083933" name="Shirtless Man" cc_theme_id="cc2" thumbnail_url="stock_thumbs/55083933.png" copyable="Y">
+<tags>vietnam</tags>
+</char>
+<char id="40783961" name="Man" cc_theme_id="cc2" thumbnail_url="stock_thumbs/40783961.png" copyable="Y">
+<tags>vietnam</tags>
+</char>
+<char id="55088392" name="Determined Soldier" cc_theme_id="cc2" thumbnail_url="stock_thumbs/55088392.png" copyable="Y">
+<tags>vietnam</tags>
+</char>
+<char id="55095241" name="Woman Soldier" cc_theme_id="cc2" thumbnail_url="stock_thumbs/55095241.png" copyable="Y">
+<tags>vietnam</tags>
+</char>
+<char id="55088777" name="Commander" cc_theme_id="cc2" thumbnail_url="stock_thumbs/55088777.png" copyable="Y">
+<tags>vietnam</tags>
+</char>
+<char id="40781462" name="Man" cc_theme_id="cc2" thumbnail_url="stock_thumbs/40781462.png" copyable="Y">
+<tags>vietnam</tags>
+</char>
+<char id="55846640" name="Man" cc_theme_id="cc2" thumbnail_url="stock_thumbs/55846640.png" copyable="Y">
+<tags>vietnam</tags>
+</char>
+<char id="55846299" name="Man" cc_theme_id="cc2" thumbnail_url="stock_thumbs/55846299.png" copyable="Y">
+<tags>vietnam</tags>
+</char>
+<char id="55096155" name="Commander" cc_theme_id="cc2" thumbnail_url="stock_thumbs/55096155.png" copyable="Y">
+<tags>vietnam</tags>
+</char>
+<char id="40786693" name="Shirtless Man" cc_theme_id="cc2" thumbnail_url="stock_thumbs/40786693.png" copyable="Y">
+<tags>vietnam</tags>
+</char>
+<char id="40788052" name="Buff Soldier" cc_theme_id="cc2" thumbnail_url="stock_thumbs/40788052.png" copyable="Y">
+<tags>vietnam</tags>
+</char>
+
 </theme>
