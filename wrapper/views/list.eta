@@ -74,7 +74,7 @@
 						<td>
 							<a href="javascript:;" onclick="popup('${tbl.id}')"></a>
 							<a href="/go_full?movieId=${tbl.id}"></a>
-							<a href="javascript:;" onclick="export()"></a>
+							<a href="javascript:/" onclick="myFunction()"></a>
 							<a href="#" onclick="destructive('${tbl.id}', 'repair')"></a>
 							<a href="#" onclick="destructive('${tbl.id}', 'delete')"></a>
 						</td>
@@ -106,7 +106,7 @@
 								$(`#${mId}`).fadeOut(() => $(`#${mId}`).remove());
 								break;
 						}
-					} else alert("Guess you're stuck with your movie.");
+					} else alert("Failed to delete video");
 				});
 		}
 
@@ -115,7 +115,7 @@
 				',top=' + (screen.height / 2 - 360));
 		}
 		
-	function export() {
+	function myFunction() {
 		alert("Video exporting coming soon!");
 		}
 
