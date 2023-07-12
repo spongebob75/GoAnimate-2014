@@ -167,8 +167,9 @@ if (self !== top) {
 				<li class="dropdown">
 					<a class="dropdown-toggle" href="http://localhost:4343" data-toggle="dropdown">Your Account <span class="caret"></span></a>
 					<ul class="dropdown-menu">
-						<li><a href="http://localhost:4343">Dashboard</a></li>
-						<li><a href="http://localhost:4343">Your Videos</a></li>
+						<li><a href="http://localhost:4343/">Dashboard</a></li>
+						<li><a href="http://localhost:4343/">Your Videos</a></li>
+						<li><a href="http://localhost:4343/settings">Settings</a></li>
 					</ul>
 				</li>
 				<li class="divider"></li>
