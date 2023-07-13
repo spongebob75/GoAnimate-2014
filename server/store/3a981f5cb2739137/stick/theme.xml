@@ -1375,7 +1375,7 @@
 		<color r="sfOtherProp">39168</color>
 	</prop>
 </compositebg>
-	<compositebg id="cbg_bedroom" name="bedroom" enable="Y" default="N" thumb="bedroom.jpg" display_order="0" is_premium="N" money="0" sharing="0" aid="7504">
+	<compositebg id="cbg_bedroom" name="bedroom" enable="Y" default="Y" thumb="bedroom.jpg" display_order="0" is_premium="N" money="0" sharing="0" aid="7504">
 	<bg id="BG12" index="0">
 		<file>stick.uniform.swf</file>
 		<color r="uniform">16777215</color>
