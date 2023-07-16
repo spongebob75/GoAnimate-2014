@@ -72,10 +72,10 @@
 							<span>${date}, ${time}</span>
 						</td>
 						<td>
-							<a href="javascript:;" onclick="popup('${tbl.id}')"></a>
+							<a href="javascript:;" onclick="popup('${tbl.id}', 'player')"></a>
 							<a href="/go_full?movieId=${tbl.id}"></a>
-							<a href="javascript:/" onclick="myFunction()"></a>
-							<a href="#" onclick="destructive('${tbl.id}', 'repair')"></a>
+							<a href="/file/movie/file/${tbl.id}" download="${tbl.title}.zip"></a>
+							<a href="#" onclick="destructive('${tbl.id}', 'clone')"></a>
 							<a href="#" onclick="destructive('${tbl.id}', 'delete')"></a>
 						</td>
 					</tr>`.trim()
@@ -110,13 +110,9 @@
 				});
 		}
 
-		function popup(id) {
-			window.open('/player?movieId=' + id, 'Loading your Video... - GoAnimate', 'width=1280,height=720,left=' + (screen.width / 2 - 640) +
+		function popup(id, path) {
+			window.open('/${path}?movieId=${id}' + id, 'Loading your Video... - GoAnimate', 'width=1280,height=720,left=' + (screen.width / 2 - 640) +
 				',top=' + (screen.height / 2 - 360));
-		}
-		
-	function myFunction() {
-		alert("Video exporting coming soon!");
 		}
 
 	</script>

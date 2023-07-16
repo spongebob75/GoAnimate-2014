@@ -6,7 +6,8 @@
 	"license": "MIT",
 	"private": true,
 	"scripts": {
-		"start": "electron . --unhandled-rejections=strict",
+		"start": "npx nodemon main.js --exec electron . --ignore ./_LOGS --ignore ./_SAVED --ignore ./_ASSETS --ignore ./_CACHÉ --ignore ./frames",
+		"start2": "electron .",
 		"build": "npx electron-packager . --all --ignore=^/server",
 		"test": "mocha"
 	},
