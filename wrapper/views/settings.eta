@@ -20,8 +20,7 @@
 				<div class="tab_buttons">
 					<h1 id="settings">Settings</h1>
 					<a href="#" class="selected" data-triggers="0">Features</a>
-					<a href="#" data-triggers="1">Appearance</a>
-					<a href="#" data-triggers="2">Your Asset Library</a>
+					<a href="#" data-triggers="1">Your Asset Library</a>
 				</div>
 				<nav class="tab" style="display:block">
 					<h2>Features</h2>
@@ -53,22 +52,6 @@
 						<option value="g4s">GoAnimate For Schools</option>
 						<option value="freeTrial">Free Trial</option>
 					</select>
-
-					<h3>14:9 or 16:9 aspect ratio</h3>
-					<p>By default, the Video Player uses the 16:9 aspect ratio<br/>
-					However, you can toggle this setting to make it 14:9, like a video<br/>
-					made with GoAnimate from 2014 or before.</p>
-					<select class="setting" id="IS_WIDE">
-						<option value="0">14:9</option>
-						<option value="1">16:9</option>
-					</select>
-				</nav>
-				<nav class="tab">
-					<h2>Appearance</h2>
-
-					<h3>Toggle Dark mode</h3>
-					<p>Toggling this will make all global GoAnimate webpages into dark mode. By default, this is turned off.</p>
-					<input class="setting" type="checkbox" id="DARK_MODE" data-local="true"></input>
 				</nav>
 				<nav class="tab">
 					<h2>Your Asset Library</h2>
