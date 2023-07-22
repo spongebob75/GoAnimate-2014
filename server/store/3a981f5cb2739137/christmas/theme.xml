@@ -216,31 +216,6 @@
 	<prop id="toy_workshop_doorframe.swf" name="" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="4767" money="0" sharing="0"/>
 	<prop id="xmtree3.swf" name="Xmas Tree" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="9101" money="0" sharing="0"/>
 	<prop id="xmsleigh1.swf" name="Xmasleigh" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="9102" money="0" sharing="0"/>
-	<sound id="joy and fun.swf" name="Joy and Fun" downloadtype="progressive" subtype="bgmusic" duration="36300" enable="N" is_premium="N" aid="1347" money="0" sharing="0"/>
-	<sound id="12_Days_of_Christmas.swf" name="12 Days of Christmas" downloadtype="progressive" subtype="bgmusic" duration="59200" enable="N" is_premium="N" aid="1348" money="0" sharing="0"/>
-	<sound id="Christmas_Tree.swf" name="Christmas Tree" downloadtype="progressive" subtype="bgmusic" duration="58500" enable="N" is_premium="N" aid="1349" money="0" sharing="0"/>
-	<sound id="Hark_the_Herald_Angels_Sing.swf" name="Hark The Herald Angels Sing" downloadtype="progressive" subtype="bgmusic" duration="59700" enable="N" is_premium="N" aid="1350" money="0" sharing="0"/>
-	<sound id="Jingle_Bells.swf" name="Jingle Bells" downloadtype="progressive" subtype="bgmusic" duration="59300" enable="N" is_premium="N" aid="1351" money="0" sharing="0"/>
-	<sound id="Joy_to_the_World.swf" name="Joy To The World" downloadtype="progressive" subtype="bgmusic" duration="59900" enable="N" is_premium="N" aid="1352" money="0" sharing="0"/>
-	<sound id="Silent_Night.swf" name="Silent Night" downloadtype="progressive" subtype="bgmusic" duration="59900" enable="N" is_premium="N" aid="1353" money="0" sharing="0"/>
-	<sound id="We_Wish_You_A_Merry_Christmas.swf" name="We Wish You A Merry Christmas" downloadtype="progressive" subtype="bgmusic" duration="59900" enable="N" is_premium="N" aid="1354" money="0" sharing="0"/>
-	<sound id="Deck_the_Halls.swf" name="Deck The Halls" downloadtype="progressive" subtype="bgmusic" duration="59800" enable="N" is_premium="N" aid="1355" money="0" sharing="0"/>
-	<sound id="O_Come_All_Ye_Faithful.swf" name="O Come All Ye Faithful" downloadtype="progressive" subtype="bgmusic" duration="58500" enable="N" is_premium="N" aid="1356" money="0" sharing="0"/>
-	<sound id="O_Little_Town_of_Bethlehem.swf" name="O Little Town of Bethlehem" downloadtype="progressive" subtype="bgmusic" duration="59900" enable="N" is_premium="N" aid="1357" money="0" sharing="0"/>
-	<sound id="we_own_christmas.swf" name="We Own Christmas" downloadtype="progressive" subtype="bgmusic" duration="165100" enable="N" is_premium="N" aid="1358" money="0" sharing="0"/>
-	<sound id="xxx_xmas.mp3" name="Welcome Xmas" downloadtype="progressive" subtype="bgmusic" duration="45694" enable="N" is_premium="N" aid="4775" money="0" sharing="0"/>
-	<sound id="joy and fun.mp3" name="Joy and Fun" downloadtype="progressive" subtype="bgmusic" duration="36300" enable="N" is_premium="N" aid="6024" money="0" sharing="0"/>
-	<sound id="12_Days_of_Christmas.mp3" name="12 Days of Christmas" downloadtype="progressive" subtype="bgmusic" duration="59200" enable="N" is_premium="N" aid="6025" money="0" sharing="0"/>
-	<sound id="Christmas_Tree.mp3" name="Christmas Tree" downloadtype="progressive" subtype="bgmusic" duration="58500" enable="N" is_premium="N" aid="6026" money="0" sharing="0"/>
-	<sound id="Hark_the_Herald_Angels_Sing.mp3" name="Hark The Herald Angels Sing" downloadtype="progressive" subtype="bgmusic" duration="59700" enable="N" is_premium="N" aid="6027" money="0" sharing="0"/>
-	<sound id="Jingle_Bells.mp3" name="Jingle Bells" downloadtype="progressive" subtype="bgmusic" duration="59300" enable="N" is_premium="N" aid="6028" money="0" sharing="0"/>
-	<sound id="Joy_to_the_World.mp3" name="Joy To The World" downloadtype="progressive" subtype="bgmusic" duration="59900" enable="N" is_premium="N" aid="6029" money="0" sharing="0"/>
-	<sound id="Silent_Night.mp3" name="Silent Night" downloadtype="progressive" subtype="bgmusic" duration="59900" enable="N" is_premium="N" aid="6030" money="0" sharing="0"/>
-	<sound id="We_Wish_You_A_Merry_Christmas.mp3" name="We Wish You A Merry Christmas" downloadtype="progressive" subtype="bgmusic" duration="59900" enable="N" is_premium="N" aid="6031" money="0" sharing="0"/>
-	<sound id="Deck_the_Halls.mp3" name="Deck The Halls" downloadtype="progressive" subtype="bgmusic" duration="59800" enable="N" is_premium="N" aid="6032" money="0" sharing="0"/>
-	<sound id="O_Come_All_Ye_Faithful.mp3" name="O Come All Ye Faithful" downloadtype="progressive" subtype="bgmusic" duration="58500" enable="N" is_premium="N" aid="6033" money="0" sharing="0"/>
-	<sound id="O_Little_Town_of_Bethlehem.mp3" name="O Little Town of Bethlehem" downloadtype="progressive" subtype="bgmusic" duration="59900" enable="N" is_premium="N" aid="6034" money="0" sharing="0"/>
-	<sound id="we_own_christmas.mp3" name="We Own Christmas" downloadtype="progressive" subtype="bgmusic" duration="165100" enable="N" is_premium="N" aid="6035" money="0" sharing="0"/>
 	<bubble id="ellipse" x="0" y="0" w="180" h="90" rotate="0" type="ELLIPSE" enable="N" is_premium="N" aid="1359" money="0" sharing="0">
 	<body rgb="0xFFFFFF" linergb="0" tailx="180" taily="110"/>
 	<text rgb="0" font="Blambot Casual" size="14" align="center" bold="false" italic="false">Click here to edit</text>
