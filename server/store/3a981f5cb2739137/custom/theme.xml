@@ -3950,15 +3950,6 @@
 	<char id="1302387" enc_asset_id="0Fi7CYge8q6o" name="Fat Soldier" cc_theme_id="family" thumbnail_url="char-default.png" copyable="Y">
 		<tags>family,_free,_cat:​Stock characters</tags>
 	</char>
-	<char id="325084254" name="Man" cc_theme_id="family" thumbnail_url="char-default.png" copyable="Y">
-		<tags>family,_free,_cat:​Stock characters</tags>
-	</char>
-	<char id="325084270" name="Fat Woman" cc_theme_id="family" thumbnail_url="char-default.png" copyable="Y">
-		<tags>family,_free,_cat:​Stock characters</tags>
-	</char>
-	<char id="325084290" name="Woman" cc_theme_id="family" thumbnail_url="char-default.png" copyable="Y">
-		<tags>family,_free,_cat:​Stock characters</tags>
-	</char>
 	<char id="1302330" enc_asset_id="0es-bAZ7KYIo" name="Hip Hop Artist" cc_theme_id="family" thumbnail_url="char-default.png" copyable="Y">
 		<tags>family,_free,_cat:​Stock characters</tags>
 	</char>
