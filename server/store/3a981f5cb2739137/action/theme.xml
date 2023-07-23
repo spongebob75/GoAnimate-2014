@@ -186,4 +186,68 @@
 		<state id="msp_vending_drink_vending_drink.swf" name="front" enable="Y" default="Y"/>
 		<state id="msp_vending_drink_ncc_vending_drink_side.swf" name="side" enable="Y"/>
 	</prop>
+
+	<char id="7251091" name="Man" cc_theme_id="cc2" thumbnail_url="stock_thumbs/7251091.png" copyable="Y">
+		<tags>cc2</tags>
+	</char>
+	<char id="7251127" name="Formal Man" cc_theme_id="cc2" thumbnail_url="stock_thumbs/7251127.png" copyable="Y">
+		<tags>cc2</tags>
+	</char>
+	<char id="7250925" name="Businessman" cc_theme_id="cc2" thumbnail_url="stock_thumbs/7250925.png" copyable="Y">
+		<tags>cc2</tags>
+	</char>
+	<char id="7251049" name="Woman" cc_theme_id="cc2" thumbnail_url="stock_thumbs/7251049.png" copyable="Y">
+		<tags>cc2</tags>
+	</char>
+	<char id="7250882" name="Woman" cc_theme_id="cc2" thumbnail_url="stock_thumbs/7250882.png" copyable="Y">
+		<tags>cc2</tags>
+	</char>
+	<char id="7688954" name="Casual Man" cc_theme_id="cc2" thumbnail_url="stock_thumbs/7688954.png" copyable="Y">
+		<tags>cc2</tags>
+	</char>
+	<char id="5429704" name="Casual Man" cc_theme_id="cc2" thumbnail_url="stock_thumbs/5429704.png" copyable="Y">
+		<tags>cc2</tags>
+	</char>
+	<char id="58879592" name="Casual Woman" cc_theme_id="cc2" thumbnail_url="stock_thumbs/58879592.png" copyable="Y">
+		<tags>cc2</tags>
+	</char>
+	<char id="61413720" name="Casual Woman" cc_theme_id="cc2" thumbnail_url="stock_thumbs/61413720.png" copyable="Y">
+		<tags>cc2</tags>
+	</char>
+	<char id="9436930" name="Casual Woman" cc_theme_id="cc2" thumbnail_url="stock_thumbs/9436930.png" copyable="Y">
+		<tags>cc2</tags>
+	</char>
+	<char id="61413708" name="Formal Woman" cc_theme_id="cc2" thumbnail_url="stock_thumbs/61413708.png" copyable="Y">
+		<tags>cc2</tags>
+	</char>
+	<char id="58880357" name="Formal Woman" cc_theme_id="cc2" thumbnail_url="stock_thumbs/58880357.png" copyable="Y">
+		<tags>cc2</tags>
+	</char>
+	<char id="5429816" name="Lavish Woman" cc_theme_id="cc2" thumbnail_url="stock_thumbs/5429816.png" copyable="Y">
+		<tags>cc2</tags>
+	</char>
+	<char id="6475976" name="Secret Agent" cc_theme_id="cc2" thumbnail_url="stock_thumbs/6475976.png" copyable="Y">
+		<tags>cc2</tags>
+	</char>
+	<char id="5284851" name="Casual Man" cc_theme_id="cc2" thumbnail_url="stock_thumbs/5284851.png" copyable="Y">
+		<tags>cc2</tags>
+	</char>
+	<char id="9312462" name="Basketball Player" cc_theme_id="cc2" thumbnail_url="stock_thumbs/9312462.png" copyable="Y">
+		<tags>cc2</tags>
+	</char>
+	<char id="9312510" name="Basketball Player" cc_theme_id="cc2" thumbnail_url="stock_thumbs/9312510.png" copyable="Y">
+		<tags>cc2</tags>
+	</char>
+	<char id="9312801" name="Basketball Player" cc_theme_id="cc2" thumbnail_url="stock_thumbs/9312801.png" copyable="Y">
+		<tags>cc2</tags>
+	</char>
+	<char id="9437188" name="Businessman" cc_theme_id="cc2" thumbnail_url="stock_thumbs/9437188.png" copyable="Y">
+		<tags>cc2</tags>
+	</char>
+	<char id="9867863" name="Businessman" cc_theme_id="cc2" thumbnail_url="stock_thumbs/9867863.png" copyable="Y">
+		<tags>cc2</tags>
+	</char>
+	<char id="10056615" name="Businessman" cc_theme_id="cc2" thumbnail_url="stock_thumbs/10056615.png" copyable="Y">
+		<tags>cc2</tags>
+	</char>
 </theme>
