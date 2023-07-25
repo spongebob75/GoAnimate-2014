@@ -1,6 +1,66 @@
 {
-	"assets": [],
-	"movies": [],
-	"folders": [],
-	"watermarks": []
+	"assets": [
+		{
+			"type": "char",
+			"subtype": 0,
+			"title": "Untitled",
+			"themeId": "family",
+			"id": "chardefault1",
+			"assetId": "chardefault1",
+			"share": {
+				"type": "none"
+			},
+			"tags": "",
+			"published": "0"
+		{
+			"type": "char",
+			"subtype": 0,
+			"title": "Untitled",
+			"themeId": "family",
+			"id": "chardefault2",
+			"assetId": "chardefault2",
+			"share": {
+				"type": "none"
+			},
+			"tags": "",
+			"published": "0"
+		{
+			"type": "char",
+			"subtype": 0,
+			"title": "Untitled",
+			"themeId": "family",
+			"id": "chardefault3",
+			"assetId": "chardefault3",
+			"share": {
+				"type": "none"
+			},
+			"tags": "",
+			"published": "0"
+		{
+			"type": "char",
+			"subtype": 0,
+			"title": "Untitled",
+			"themeId": "family",
+			"id": "chardefault4",
+			"assetId": "chardefault4",
+			"share": {
+				"type": "none"
+			},
+			"tags": "",
+			"published": "0"
+		{
+			"type": "char",
+			"subtype": 0,
+			"title": "Bodyguard",
+			"themeId": "family",
+			"id": "chardefault5",
+			"assetId": "chardefault5",
+			"share": {
+				"type": "none"
+			},
+			"tags": "",
+			"published": "0"
+		}
+	],
+	"movies": []
 }
