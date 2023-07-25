@@ -512,7 +512,7 @@ $('.vm-bf-dots a').click(function(e) {
 				<div class="theme-meat">
 					<h3>Anime</h3>
 					<div class="apps">
-						<a class="btn btn-orange pull-left" href="http://localhost:4343/go_full?tray=anine">Make a Video</a>
+						<a class="btn btn-orange pull-left" href="http://localhost:4343/go_full?tray=anime">Make a Video</a>
 						<a class="btn btn-icon" href="http://localhost:4343/cc_browser?themeId=anime">Character Creator</a>
 					</div>
 				</div>
