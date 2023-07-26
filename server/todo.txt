@@ -1,3 +1,2 @@
-- add business friendly, whiteboard animation, chibi peepz & chibi ninjas stock chars
+- add chibi ninjas stock chars
 - remove aids from assets & somehow figure out a way how to remove directory of a prop when displayed in the prop section in the videomaker
-- fix business models & stickly business headgear
