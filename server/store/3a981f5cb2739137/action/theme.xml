@@ -226,6 +226,12 @@
 	<char id="5429816" name="Lavish Woman" cc_theme_id="cc2" thumbnail_url="stock_thumbs/5429816.png" copyable="Y">
 		<tags>cc2</tags>
 	</char>
+	<char id="20427645" name="Superhero" cc_theme_id="cc2" thumbnail_url="stock_thumbs/20427645.png" copyable="Y">
+		<tags>cc2</tags>
+	</char>
+	<char id="20433434" name="Superhero" cc_theme_id="cc2" thumbnail_url="stock_thumbs/20433434.png" copyable="Y">
+		<tags>cc2</tags>
+	</char>
 	<char id="6475976" name="Secret Agent" cc_theme_id="cc2" thumbnail_url="stock_thumbs/6475976.png" copyable="Y">
 		<tags>cc2</tags>
 	</char>

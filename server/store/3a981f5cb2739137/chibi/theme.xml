@@ -2473,4 +2473,59 @@
 		<state id="msp_ninja_door01_ncc_ninja_door01_open.swf" name="open" enable="Y"/>
 	</prop>
 	<effect id="ncc_jp_sakura.swf" type="ANIME" resize="false" move="false" name="Sakura" enable="N" is_premium="N" aid="14976" money="0" sharing="0" display_order="0"/>
+
+	<char id="72727487" name="Student" cc_theme_id="chibi" thumbnail_url="stock_thumbs/72727487.png" copyable="Y">
+		<tags>chibi</tags>
+	</char>
+	<char id="72727491" name="Student" cc_theme_id="chibi" thumbnail_url="stock_thumbs/72727491.png" copyable="Y">
+		<tags>chibi</tags>
+	</char>
+	<char id="72727494" name="Student" cc_theme_id="chibi" thumbnail_url="stock_thumbs/72727494.png" copyable="Y">
+		<tags>chibi</tags>
+	</char>
+	<char id="72727495" name="Student" cc_theme_id="chibi" thumbnail_url="stock_thumbs/72727495.png" copyable="Y">
+		<tags>chibi</tags>
+	</char>
+	<char id="72727496" name="Student" cc_theme_id="chibi" thumbnail_url="stock_thumbs/72727496.png" copyable="Y">
+		<tags>chibi</tags>
+	</char>
+	<char id="73082853" name="Student" cc_theme_id="chibi" thumbnail_url="stock_thumbs/73082853.png" copyable="Y">
+		<tags>chibi</tags>
+	</char>
+	<char id="73083417" name="Student" cc_theme_id="chibi" thumbnail_url="stock_thumbs/73083417.png" copyable="Y">
+		<tags>chibi</tags>
+	</char>
+	<char id="80639608" name="Woman" cc_theme_id="chibi" thumbnail_url="stock_thumbs/80639608.png" copyable="Y">
+		<tags>chibi</tags>
+	</char>    
+	<char id="197006951" name="Seasonal Man" cc_theme_id="chibi" thumbnail_url="stock_thumbs/197006951.png" copyable="Y">
+		<tags>chibi</tags>
+	</char>
+	<char id="80640074" name="Seasonal Woman" cc_theme_id="chibi" thumbnail_url="stock_thumbs/80640074.png" copyable="Y">
+		<tags>chibi</tags>
+	</char>
+	<char id="80640257" name="Seasonal Woman" cc_theme_id="chibi" thumbnail_url="stock_thumbs/80640257.png" copyable="Y">
+		<tags>chibi</tags>
+	</char>
+	<char id="87033930" name="Woman" cc_theme_id="chibi" thumbnail_url="stock_thumbs/87033930.png" copyable="Y">
+		<tags>chibi</tags>
+	</char>
+	<char id="87034228" name="Man" cc_theme_id="chibi" thumbnail_url="stock_thumbs/87034228.png" copyable="Y">
+		<tags>chibi</tags>
+	</char>
+	<char id="87034461" name="Seasonal Woman" cc_theme_id="chibi" thumbnail_url="stock_thumbs/87034461.png" copyable="Y">
+		<tags>chibi</tags>
+	</char>    
+	<char id="87035881" name="Man" cc_theme_id="chibi" thumbnail_url="stock_thumbs/87035881.png" copyable="Y">
+		<tags>chibi</tags>
+	</char>    
+	<char id="87037936" name="Man" cc_theme_id="chibi" thumbnail_url="stock_thumbs/87037936.png" copyable="Y">
+		<tags>chibi</tags>
+	</char>
+	<char id="87038456" name="Businessman" cc_theme_id="chibi" thumbnail_url="stock_thumbs/87038456.png" copyable="Y">
+		<tags>chibi</tags>
+	</char>
+	<char id="87039006" name="Businesswoman" cc_theme_id="chibi" thumbnail_url="stock_thumbs/87039006.png" copyable="Y">
+		<tags>chibi</tags>
+	</char>
 </theme>
