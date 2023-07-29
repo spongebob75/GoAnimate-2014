@@ -42,7 +42,7 @@
 
 		let C = 0;
 		function loadRows() {
-			// load only 169 rows
+			// load only 69 rows
 			let c = C;
 			C += 69;
 			for (; c < C; c++) {

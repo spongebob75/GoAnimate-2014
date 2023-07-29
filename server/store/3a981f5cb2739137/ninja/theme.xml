@@ -1067,4 +1067,35 @@
 	<effect id="ncc_ninja_fx04.swf" type="ANIME" resize="false" move="false" name="Purple petals" enable="N" is_premium="N" aid="15159" money="0" sharing="0" display_order="0"/>
 	<effect id="ncc_ninja_fx01.swf" type="ANIME" resize="false" move="false" name="Focus" enable="N" is_premium="N" aid="15156" money="0" sharing="0" display_order="10"/>
 	<effect id="ncc_ninja_fx03.swf" type="ANIME" resize="false" move="false" name="Focus" enable="N" is_premium="N" aid="15158" money="0" sharing="0" display_order="10"/>
+
+	<char id="102361635" name="Sensei" cc_theme_id="ninja" thumbnail_url="stock_thumbs/102361635.png" copyable="Y">
+		<tags>ninja</tags>
+	</char>
+	<char id="102361636" name="Masked Ninja" cc_theme_id="ninja" thumbnail_url="stock_thumbs/102361636.png" copyable="Y">
+		<tags>ninja</tags>
+	</char>
+	<char id="102361637" name="Haruto" cc_theme_id="ninja" thumbnail_url="stock_thumbs/102361637.png" copyable="Y">
+		<tags>ninja</tags>
+	</char>
+	<char id="102361638" name="Aya" cc_theme_id="ninja" thumbnail_url="stock_thumbs/102361638.png" copyable="Y">
+		<tags>ninja</tags>
+	</char>
+	<char id="102361639" name="Emica" cc_theme_id="ninja" thumbnail_url="stock_thumbs/102361639.png" copyable="Y">
+		<tags>ninja</tags>
+	</char>
+	<char id="87007654" name="Kaito" cc_theme_id="ninja" thumbnail_url="stock_thumbs/87007654.png" copyable="Y">
+		<tags>ninja</tags>
+	</char>
+	<char id="87019758" name="Itsuki" cc_theme_id="ninja" thumbnail_url="stock_thumbs/87019758.png" copyable="Y">
+		<tags>ninja</tags>
+	</char>
+	<char id="87028352" name="Sensei" cc_theme_id="ninja" thumbnail_url="stock_thumbs/87028352.png" copyable="Y">
+		<tags>ninja</tags>
+	</char>
+	<char id="119381651" name="Hotaru" cc_theme_id="ninja" thumbnail_url="stock_thumbs/119381651.png" copyable="Y">
+		<tags>ninja</tags>
+	</char>
+	<char id="119381930" name="Iwa" cc_theme_id="ninja" thumbnail_url="stock_thumbs/119381930.png" copyable="Y">
+		<tags>ninja</tags>
+	</char>
 </theme>
