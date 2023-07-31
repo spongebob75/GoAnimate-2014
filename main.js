@@ -8,18 +8,21 @@ const env = Object.assign(process.env, require("./env"), require("./config"));
 const { app, BrowserWindow, Menu } = require("electron");
 const fs = require("fs");
 const path = require("path");
-// vars
-const assets = path.join(__dirname, env.ASSET_FOLDER);
-const cache = path.join(__dirname, env.CACHÉ_FOLDER);
-const saved = path.join(__dirname, env.SAVED_FOLDER);
-
+const requiredPaths = [
+	path.join(__dirname, env.ASSET_FOLDER),
+	path.join(__dirname, env.CACHÉ_FOLDER),
+	path.join(__dirname, env.SAVED_FOLDER),
+	path.join(__dirname, env.EXPORT_FOLDER),
+];
 /**
  * initialization
  */
-// create directories if they're missing
-if (!fs.existsSync(assets)) fs.mkdirSync(assets);
-if (!fs.existsSync(cache)) fs.mkdirSync(cache);
-if (!fs.existsSync(saved)) fs.mkdirSync(saved);
+// make sure required dirs exist
+for (const p of requiredPaths) {
+	if (!fs.existsSync(p)) {
+		fs.mkdirSync(p);
+	}
+}
 // start discord rpc
 const discord = require("./utils/discord");
 // start the server
