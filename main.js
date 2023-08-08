@@ -68,8 +68,8 @@ const createWindow = () => {
 	// initialize stuff
 	// clear the menu bar
 	Menu.setApplicationMenu(Menu.buildFromTemplate([]));
-	// load the video list
-	mainWindow.loadURL("http://localhost:4343");
+	// load the login page
+	mainWindow.loadURL("http://localhost:4343/login");
 	mainWindow.on("closed", () => mainWindow = null);
 
 	// debug stuff

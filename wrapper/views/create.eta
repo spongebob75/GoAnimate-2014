@@ -744,8 +744,8 @@ var tagNames = {"lipsync":"Lip-sync","ext_lib":"Extensive Library","starters":"S
 				</ul>
 			</div>
 			<div class="site-footer-copyright pull-right">
-				<img src="pages/vm_files/logo_norton.png" alt="Norton Secured">
-				<img src="pages/vm_files/logo_amazon.png" alt="AWS Partner Network">
+				<img src="/pages/vm_files/logo_norton.png" alt="Norton Secured">
+				<img src="/pages/vm_files/logo_amazon.png" alt="AWS Partner Network">
 				&nbsp;&nbsp;&nbsp;
 				GoAnimate © 2014
 			</div>

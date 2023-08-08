@@ -6,6 +6,11 @@ const database = require("../../data/database"), DB = new database(true);
 const { SWF_URL, STORE_URL, CLIENT_URL } = process.env;
 const group = new httpz.Group();
 
+// login
+group.route("*", "/login", (req, res) => {
+	discord("Logging in");
+	res.render("login", {});
+});
 // video list
 group.route("*", "/", (req, res) => {
 	discord("Video List");
