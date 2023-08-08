@@ -261,7 +261,7 @@ if (self !== top) {
 			<ul id="top-nav" class="top-nav">
 				<li><a href="http://web.archive.org/web/20140421234527/https://goanimate.com/signup">Sign Up</a></li>
 				<li class="divider"></li>
-				<li><a href="http://web.archive.org/web/20140421234527/https://goanimate.com/login">Login</a></li>
+				<li><a href="http://localhost:4343/login">Login</a></li>
 				<li class="divider"></li>
 				<li class="dropdown">
 					<a class="dropdown-toggle" href="http://web.archive.org/web/20140421234527/http://goanimate.com/videos" data-toggle="dropdown">Explore <span class="caret"></span></a>
