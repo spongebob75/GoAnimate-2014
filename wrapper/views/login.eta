@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<!-- saved from url=(0069)http://web.archive.org/web/20140421234527/https://goanimate.com/login -->
+<!-- GoAnimate 2014 Login -->
 <html><script src="pages/lg_files/quant.js.download" async="" type="text/javascript"></script><script type="text/javascript" async="" src="pages/lg_files/d6e9ca5d19bda4afea55a1493af00d0b98c26240.1.js.download"></script><script type="text/javascript" async="" src="pages/lg_files/i.js.download"></script><script type="text/javascript" async="" src="pages/lg_files/dc.js.download"></script><script type="text/javascript" src="chrome-extension://ehghoapnlpepjmfbgaomdiilchcjemak/libs/customElements.js" class="__REQUESTLY__SCRIPT"></script><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script src="pages/lg_files/analytics.js.download" type="text/javascript"></script>
 <script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app220.us.archive.org';v.server_ms=353;archive_analytics.send_pageview({});});</script>
 <script type="text/javascript" src="pages/lg_files/bundle-playback.js.download" charset="utf-8"></script>
@@ -253,7 +253,7 @@ if (self !== top) {
 <div class="site-header">
 	<div class="site-header-bg"></div>
 	<div class="container site-header-inside">
-		<a class="site-logo" href="http://web.archive.org/web/20140421234527/http://goanimate.com/" title="GoAnimate">
+		<a class="site-logo" href="http://localhost:4343/login" title="GoAnimate">
 			<img alt="Make a Video Online with GoAnimate.com" src="/pages/vm_files/logo.png">
 		</a>
 
