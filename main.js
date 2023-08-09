@@ -55,7 +55,7 @@ const createWindow = () => {
 	mainWindow = new BrowserWindow({
 		width: 1200,
 		height: 700,
-		title: "GoAnimate - Loading Assets & your dashboard...",
+		title: "GoAnimate - Loading Assets & Login page...",
 		icon: path.join(__dirname, "./server/favicon.ico"),
 		webPreferences: {
 			plugins: true,
