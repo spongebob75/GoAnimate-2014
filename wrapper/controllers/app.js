@@ -106,7 +106,7 @@ group.route("GET", "/cc_browser", async (req, res) => {
 		object: toObjectString
 	});
 });
-group.route("GET", "/go_full", async (req, res) => {
+group.route("GET", "/videomaker_full", async (req, res) => {
 	discord("Video Maker");
 	const { IS_WIDE } = DB.select();
 	let flashvars = {

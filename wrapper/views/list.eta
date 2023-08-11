@@ -73,7 +73,7 @@
 						</td>
 						<td>
 							<a href="javascript:;" onclick="popup('${tbl.id}', 'player')"></a>
-							<a href="/go_full?movieId=${tbl.id}"></a>
+							<a href="/videomaker_full?movieId=${tbl.id}"></a>
 							<a href="/file/movie/file/${tbl.id}" download="${tbl.title}.zip"></a>
 							<a href="#" onclick="destructive('${tbl.id}', 'clone')"></a>
 							<a href="#" onclick="destructive('${tbl.id}', 'delete')"></a>
