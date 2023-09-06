@@ -159,7 +159,7 @@ if (self !== top) {
 	<div class="site-header-bg"></div>
 	<div class="container site-header-inside">
 		<a class="site-logo" href="http://localhost:4343/" title="GoAnimate">
-			<img alt="Make a Video Online with GoAnimate 2014" src="pages/vm_files/logo.png">
+			<img alt="Make a Video Online with GoAnimate 2014" src="pages/img/logo_alt.png">
 		</a>
 
 <div class="pull-right">

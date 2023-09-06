@@ -117,7 +117,7 @@ tr>:nth-child(4)>:nth-child(1)::before {
 	content: '\E174';
 }
 tr>:nth-child(4)>:nth-child(2)::before {
-	content: '\E235';
+	content: '\270F';
 }
 tr>:nth-child(4)>:nth-child(3)::before {
 	content: '\E182';
