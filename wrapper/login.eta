@@ -1,0 +1,777 @@
+<!DOCTYPE html>
+<!-- GoAniamte 2014 Login -->
+<html><script src="pages/lg_files/quant.js.download" async="" type="text/javascript"></script><script type="text/javascript" async="" src="pages/lg_files/d6e9ca5d19bda4afea55a1493af00d0b98c26240.1.js.download"></script><script type="text/javascript" async="" src="pages/lg_files/i.js.download"></script><script type="text/javascript" async="" src="pages/lg_files/dc.js.download"></script><script type="text/javascript" src="chrome-extension://ehghoapnlpepjmfbgaomdiilchcjemak/libs/customElements.js" class="__REQUESTLY__SCRIPT"></script><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script src="pages/lg_files/analytics.js.download" type="text/javascript"></script>
+<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app220.us.archive.org';v.server_ms=353;archive_analytics.send_pageview({});});</script>
+<script type="text/javascript" src="pages/lg_files/bundle-playback.js.download" charset="utf-8"></script>
+<script type="text/javascript" src="pages/lg_files/wombat.js.download" charset="utf-8"></script>
+<script type="text/javascript" src="pages/lg_files/ruffle.js.download"></script>
+<script type="text/javascript">
+  __wm.init("http://web.archive.org/web");
+  __wm.wombat("https://goanimate.com/login","20140421234527","http://web.archive.org/","web","/_static/",
+	      "1398123927");
+</script>
+<link rel="stylesheet" type="text/css" href="pages/lg_files/banner-styles.css">
+<link rel="stylesheet" type="text/css" href="pages/lg_files/iconochive.css">
+<!-- End Wayback Rewrite JS Include -->
+
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<link rel="dns-prefetch" href="http://web.archive.org/web/20140421234527/https://d3v4eglovri8yt.cloudfront.net/">
+
+<title>Login to GoAnimate</title>
+
+<meta name="description" content="Make a video online for free with GoAnimate! Make videos for YouTube and Facebook, create business and educational videos, make animated e-cards and more!">
+<meta property="og:site_name" content="GoAnimate">
+<meta property="fb:app_id" content="177116303202">
+
+<meta name="google-site-verification" content="K_niiTfCVi72gwvxK00O4NjsVybMutMUnc-ZnN6HUuA">
+
+<link rel="alternate" href="http://web.archive.org/web/20140421234527/http://feeds.feedburner.com/GoAnimate" type="application/rss+xml" title="GoAnimate Blog">
+<link rel="alternate" href="http://web.archive.org/web/20140421234527/http://feeds.feedburner.com/GoAnimate/WhatsNew" type="application/rss+xml" title="GoAnimate - Recently Released Content">
+<link rel="alternate" href="http://web.archive.org/web/20140421234527/http://feeds.feedburner.com/GoAnimate/MostWatched" type="application/rss+xml" title="GoAnimate - Most Watched">
+
+
+<link href="pages/lg_files/css" rel="stylesheet" type="text/css">
+<link href="pages/lg_files/bootstrap.min.css" rel="stylesheet" type="text/css">
+<link href="pages/lg_files/bootstrap-modal.css" rel="stylesheet" type="text/css">
+<link href="pages/lg_files/bootstrapSwitch.css" rel="stylesheet" type="text/css">
+<link href="pages/lg_files/style.css" rel="stylesheet" type="text/css">
+<link href="pages/lg_files/site.css" rel="stylesheet" type="text/css">
+<link href="pages/lg_files/overlay.css" rel="stylesheet" type="text/css">
+
+<link href="pages/lg_files/signup.css" rel="stylesheet" type="text/css">
+
+<script type="text/javascript">
+var srv_tz_os = -4, view_name = "go", user_cookie_name = "u_info";
+</script>
+
+<script src="pages/lg_files/jquery-1.8.3.min.js.download"></script>
+
+<script src="pages/lg_files/bootstrap.min.js.download"></script>
+<script src="pages/lg_files/bootstrap-modalmanager.js.download"></script>
+<script src="pages/lg_files/bootstrap-modal.js.download"></script>
+<script src="pages/lg_files/bootstrapSwitch.js.download"></script>
+
+
+<script src="pages/lg_files/go2.js.download"></script>
+<script src="pages/lg_files/jquery.swfobject.min.js.download"></script>
+<script src="pages/lg_files/jquery.blockUI.js.download"></script>
+<script src="pages/lg_files/jquery.scrollTo.min.js.download"></script>
+<script src="pages/lg_files/app.js.download"></script>
+
+<script src="pages/lg_files/cookie.js.download"></script>
+<script src="pages/lg_files/Gettext.js.download"></script>
+<script type="text/javascript" src="pages/lg_files/goserver_js-en_US.json"></script>
+<script type="text/javascript">
+var I18N_LANG = 'en_US';
+var GT = new Gettext({'locale_data': json_locale_data});
+</script>
+<script type="text/javascript" src="pages/lg_files/recaptcha_ajax.js.download"></script>
+
+<!-- Google Analytics -->
+<script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-2516970-1']);
+_gaq.push(['_setDomainName', 'none']);
+_gaq.push(['_trackPageview']);
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+
+ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+
+
+<link href="https://plus.google.com/+goanimate" rel="publisher">
+
+<style type="text/css">.fb_hidden{position:absolute;top:-10000px;z-index:10001}.fb_invisible{display:none}.fb_reset{background:none;border:0;border-spacing:0;color:#000;cursor:auto;direction:ltr;font-family:"lucida grande", tahoma, verdana, arial, sans-serif;font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:1;margin:0;overflow:visible;padding:0;text-align:left;text-decoration:none;text-indent:0;text-shadow:none;text-transform:none;visibility:visible;white-space:normal;word-spacing:normal}.fb_reset>div{overflow:hidden}.fb_link img{border:none}
+.fb_dialog{background:rgba(82, 82, 82, .7);position:absolute;top:-10000px;z-index:10001}.fb_reset .fb_dialog_legacy{overflow:visible}.fb_dialog_advanced{padding:10px;-moz-border-radius:8px;-webkit-border-radius:8px;border-radius:8px}.fb_dialog_content{background:#fff;color:#333}.fb_dialog_close_icon{background:url(http://web.archive.org/web/20140421234527/http://static.ak.fbcdn.net/rsrc.php/v2/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 0 transparent;_background-image:url(http://web.archive.org/web/20140421234527/http://static.ak.fbcdn.net/rsrc.php/v2/yL/r/s816eWC-2sl.gif);cursor:pointer;display:block;height:15px;position:absolute;right:18px;top:17px;width:15px}.fb_dialog_mobile .fb_dialog_close_icon{top:5px;left:5px;right:auto}.fb_dialog_padding{background-color:transparent;position:absolute;width:1px;z-index:-1}.fb_dialog_close_icon:hover{background:url(http://web.archive.org/web/20140421234527/http://static.ak.fbcdn.net/rsrc.php/v2/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 -15px transparent;_background-image:url(http://web.archive.org/web/20140421234527/http://static.ak.fbcdn.net/rsrc.php/v2/yL/r/s816eWC-2sl.gif)}.fb_dialog_close_icon:active{background:url(http://web.archive.org/web/20140421234527/http://static.ak.fbcdn.net/rsrc.php/v2/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 -30px transparent;_background-image:url(http://web.archive.org/web/20140421234527/http://static.ak.fbcdn.net/rsrc.php/v2/yL/r/s816eWC-2sl.gif)}.fb_dialog_loader{background-color:#f2f2f2;border:1px solid #606060;font-size:24px;padding:20px}.fb_dialog_top_left,.fb_dialog_top_right,.fb_dialog_bottom_left,.fb_dialog_bottom_right{height:10px;width:10px;overflow:hidden;position:absolute}.fb_dialog_top_left{background:url(http://web.archive.org/web/20140421234527/http://static.ak.fbcdn.net/rsrc.php/v2/ye/r/8YeTNIlTZjm.png) no-repeat 0 0;left:-10px;top:-10px}.fb_dialog_top_right{background:url(http://web.archive.org/web/20140421234527/http://static.ak.fbcdn.net/rsrc.php/v2/ye/r/8YeTNIlTZjm.png) no-repeat 0 -10px;right:-10px;top:-10px}.fb_dialog_bottom_left{background:url(http://web.archive.org/web/20140421234527/http://static.ak.fbcdn.net/rsrc.php/v2/ye/r/8YeTNIlTZjm.png) no-repeat 0 -20px;bottom:-10px;left:-10px}.fb_dialog_bottom_right{background:url(http://web.archive.org/web/20140421234527/http://static.ak.fbcdn.net/rsrc.php/v2/ye/r/8YeTNIlTZjm.png) no-repeat 0 -30px;right:-10px;bottom:-10px}.fb_dialog_vert_left,.fb_dialog_vert_right,.fb_dialog_horiz_top,.fb_dialog_horiz_bottom{position:absolute;background:#525252;filter:alpha(opacity=70);opacity:.7}.fb_dialog_vert_left,.fb_dialog_vert_right{width:10px;height:100%}.fb_dialog_vert_left{margin-left:-10px}.fb_dialog_vert_right{right:0;margin-right:-10px}.fb_dialog_horiz_top,.fb_dialog_horiz_bottom{width:100%;height:10px}.fb_dialog_horiz_top{margin-top:-10px}.fb_dialog_horiz_bottom{bottom:0;margin-bottom:-10px}.fb_dialog_iframe{line-height:0}.fb_dialog_content .dialog_title{background:#6d84b4;border:1px solid #3b5998;color:#fff;font-size:14px;font-weight:bold;margin:0}.fb_dialog_content .dialog_title>span{background:url(http://web.archive.org/web/20140421234527/http://static.ak.fbcdn.net/rsrc.php/v2/yd/r/Cou7n-nqK52.gif) no-repeat 5px 50%;float:left;padding:5px 0 7px 26px}body.fb_hidden{-webkit-transform:none;height:100%;margin:0;overflow:visible;position:absolute;top:-10000px;left:0;width:100%}.fb_dialog.fb_dialog_mobile.loading{background:url(http://web.archive.org/web/20140421234527/http://static.ak.fbcdn.net/rsrc.php/v2/ya/r/3rhSv5V8j3o.gif) white no-repeat 50% 50%;min-height:100%;min-width:100%;overflow:hidden;position:absolute;top:0;z-index:10001}.fb_dialog.fb_dialog_mobile.loading.centered{max-height:590px;min-height:590px;max-width:500px;min-width:500px}#fb-root #fb_dialog_ipad_overlay{background:rgba(0, 0, 0, .45);position:absolute;left:0;top:0;width:100%;min-height:100%;z-index:10000}#fb-root #fb_dialog_ipad_overlay.hidden{display:none}.fb_dialog.fb_dialog_mobile.loading iframe{visibility:hidden}.fb_dialog_content .dialog_header{-webkit-box-shadow:white 0 1px 1px -1px inset;background:-webkit-gradient(linear, 0% 0%, 0% 100%, from(#738ABA), to(#2C4987));border-bottom:1px solid;border-color:#1d4088;color:#fff;font:14px Helvetica, sans-serif;font-weight:bold;text-overflow:ellipsis;text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0;vertical-align:middle;white-space:nowrap}.fb_dialog_content .dialog_header table{-webkit-font-smoothing:subpixel-antialiased;height:43px;width:100%}.fb_dialog_content .dialog_header td.header_left{font-size:12px;padding-left:5px;vertical-align:middle;width:60px}.fb_dialog_content .dialog_header td.header_right{font-size:12px;padding-right:5px;vertical-align:middle;width:60px}.fb_dialog_content .touchable_button{background:-webkit-gradient(linear, 0% 0%, 0% 100%, from(#4966A6), color-stop(.5, #355492), to(#2A4887));border:1px solid #29447e;-webkit-background-clip:padding-box;-webkit-border-radius:3px;-webkit-box-shadow:rgba(0, 0, 0, .117188) 0 1px 1px inset, rgba(255, 255, 255, .167969) 0 1px 0;display:inline-block;margin-top:3px;max-width:85px;line-height:18px;padding:4px 12px;position:relative}.fb_dialog_content .dialog_header .touchable_button input{border:none;background:none;color:#fff;font:12px Helvetica, sans-serif;font-weight:bold;margin:2px -12px;padding:2px 6px 3px 6px;text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0}.fb_dialog_content .dialog_header .header_center{color:#fff;font-size:16px;font-weight:bold;line-height:18px;text-align:center;vertical-align:middle}.fb_dialog_content .dialog_content{background:url(http://web.archive.org/web/20140421234527/http://static.ak.fbcdn.net/rsrc.php/v2/y9/r/jKEcVPZFk-2.gif) no-repeat 50% 50%;border:1px solid #555;border-bottom:0;border-top:0;height:150px}.fb_dialog_content .dialog_footer{background:#f2f2f2;border:1px solid #555;border-top-color:#ccc;height:40px}#fb_dialog_loader_close{float:left}.fb_dialog.fb_dialog_mobile .fb_dialog_close_button{text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0}.fb_dialog.fb_dialog_mobile .fb_dialog_close_icon{visibility:hidden}
+.fb_iframe_widget{display:inline-block;position:relative}.fb_iframe_widget span{display:inline-block;position:relative;text-align:justify}.fb_iframe_widget iframe{position:absolute}.fb_iframe_widget_lift{z-index:1}.fb_hide_iframes iframe{position:relative;left:-10000px}.fb_iframe_widget_loader{position:relative;display:inline-block}.fb_iframe_widget_fluid{display:inline}.fb_iframe_widget_fluid span{width:100%}.fb_iframe_widget_loader iframe{min-height:32px;z-index:2;zoom:1}.fb_iframe_widget_loader .FB_Loader{background:url(http://web.archive.org/web/20140421234527/http://static.ak.fbcdn.net/rsrc.php/v2/y9/r/jKEcVPZFk-2.gif) no-repeat;height:32px;width:32px;margin-left:-16px;position:absolute;left:50%;z-index:4}
+.fb_connect_bar_container div,.fb_connect_bar_container span,.fb_connect_bar_container a,.fb_connect_bar_container img,.fb_connect_bar_container strong{background:none;border-spacing:0;border:0;direction:ltr;font-style:normal;font-variant:normal;letter-spacing:normal;line-height:1;margin:0;overflow:visible;padding:0;text-align:left;text-decoration:none;text-indent:0;text-shadow:none;text-transform:none;visibility:visible;white-space:normal;word-spacing:normal;vertical-align:baseline}.fb_connect_bar_container{position:fixed;left:0 !important;right:0 !important;height:42px !important;padding:0 25px !important;margin:0 !important;vertical-align:middle !important;border-bottom:1px solid #333 !important;background:#3b5998 !important;z-index:99999999 !important;overflow:hidden !important}.fb_connect_bar_container_ie6{position:absolute;top:expression(document.compatMode=="CSS1Compat"? document.documentElement.scrollTop+"px":body.scrollTop+"px")}.fb_connect_bar{position:relative;margin:auto;height:100%;width:100%;padding:6px 0 0 0 !important;background:none;color:#fff !important;font-family:"lucida grande", tahoma, verdana, arial, sans-serif !important;font-size:13px !important;font-style:normal !important;font-variant:normal !important;font-weight:normal !important;letter-spacing:normal !important;line-height:1 !important;text-decoration:none !important;text-indent:0 !important;text-shadow:none !important;text-transform:none !important;white-space:normal !important;word-spacing:normal !important}.fb_connect_bar a:hover{color:#fff}.fb_connect_bar .fb_profile img{height:30px;width:30px;vertical-align:middle;margin:0 6px 5px 0}.fb_connect_bar div a,.fb_connect_bar span,.fb_connect_bar span a{color:#bac6da;font-size:11px;text-decoration:none}.fb_connect_bar .fb_buttons{float:right;margin-top:7px}
+.fbpluginrecommendationsbarleft,.fbpluginrecommendationsbarright{position:fixed !important;bottom:0;z-index:999}.fbpluginrecommendationsbarleft{left:10px}.fbpluginrecommendationsbarright{right:10px}</style></head>
+<body class="en_US">
+ 
+<script type="text/javascript">
+if (self !== top) {
+			jQuery('body').hide();
+	}
+</script>
+<div id="fb-root" class=" fb_reset"><script async="" src="pages/lg_files/all.js.download"></script><div style="position: absolute; top: -10000px; height: 0px; width: 0px;"><div><iframe name="fb_xdm_frame_https" frameborder="0" allowtransparency="true" scrolling="no" id="fb_xdm_frame_https" aria-hidden="true" title="Facebook Cross Domain Communication Frame" tab-index="-1" src="pages/lg_files/8n77RrR4jg0.html" style="border: none;" allow="autoplay &#39;self&#39;; fullscreen &#39;self&#39;" data-ruffle-polyfilled=""></iframe></div></div><div style="position: absolute; top: -10000px; height: 0px; width: 0px;"><div><iframe name="f3db0c6e6815e9a" frameborder="0" allowtransparency="true" scrolling="no" src="pages/lg_files/ping.html" style="display: none;" allow="autoplay &#39;self&#39;; fullscreen &#39;self&#39;" data-ruffle-polyfilled=""></iframe></div></div></div>
+<script type="text/javascript">
+  window.fbAsyncInit = function() {
+    FB.init({appId: '177116303202', cookie: true, status: true, xfbml: true});
+    jQuery(document).ready(function() {
+      jQuery(document).trigger('facebook.init');
+    });
+  };
+  (function() {
+    var e = document.createElement('script'); e.async = true;
+    e.src = document.location.protocol +
+      '//web.archive.org/web/20140421234527/https://connect.facebook.net/en_US/all.js';
+    document.getElementById('fb-root').appendChild(e);
+  }());
+</script>
+
+<script type="text/javascript">
+  var _kmq = _kmq || [];
+  var _kmk = _kmk || 'd6e9ca5d19bda4afea55a1493af00d0b98c26240';
+  function _kms(u){
+    setTimeout(function(){
+      var d = document, f = d.getElementsByTagName('script')[0],
+      s = d.createElement('script');
+      s.type = 'text/javascript'; s.async = true; s.src = u;
+      f.parentNode.insertBefore(s, f);
+    }, 1);
+  }
+  _kms('//web.archive.org/web/20140421234527/https://i.kissmetrics.com/i.js');
+  _kms('//web.archive.org/web/20140421234527/https://doug1izaerwt3.cloudfront.net/' + _kmk + '.1.js');
+</script>
+
+<script type="text/javascript">
+		jQuery.extend(CCStandaloneBannerAdUI, {"actionshopSWF":"http:\/\/web.archive.org\/web\/20140421234527\/https:\/\/d3v4eglovri8yt.cloudfront.net\/animation\/877\/actionshop.swf","apiserver":"http:\/\/web.archive.org\/web\/20140421234527\/http:\/\/goanimate.com\/","clientThemePath":"http:\/\/web.archive.org\/web\/20140421234527\/https:\/\/d3v4eglovri8yt.cloudfront.net\/static\/477\/<client_theme>","userId":""});
+</script>
+
+<div class="page-container">
+
+<!-- HEADER -->
+<div class="site-header">
+	<div class="site-header-bg"></div>
+	<div class="container site-header-inside">
+		<a class="site-logo" href="http://localhost:4343/login" title="GoAnimate">
+			<img alt="Make a Video Online with GoAnimate.com" src="/pages/img/logo_alt.png">
+		</a>
+
+		<div class="pull-right">
+			<ul id="top-nav" class="top-nav">
+				<li><a href="http://web.archive.org/web/20140421234527/https://goanimate.com/signup">Sign Up</a></li>
+				<li class="divider"></li>
+				<li><a href="http://localhost:4343/login">Login</a></li>
+				<li class="divider"></li>
+				<li class="dropdown">
+					<a class="dropdown-toggle" href="http://web.archive.org/web/20140421234527/http://goanimate.com/videos" data-toggle="dropdown">Explore <span class="caret"></span></a>
+					<ul class="dropdown-menu">
+						<li><a href="http://localhost:4343/extra_pages/WebpageInDevelopment.html">Blog</a></li>
+						<li><a href="http://localhost:4343/extra_pages/WebpageInDevelopment.html">Videos</a></li>
+					</ul>
+				</li>
+				<li class="divider"></li>
+
+				<li>
+					<a href="http://web.archive.org/web/20140421234527/http://goanimate.com/business/videoplans/?hook=header_button.site">Plans &amp; Pricing</a>
+				</li>
+			</ul>
+
+			<div class="top-nav-vm-btn">
+				<a class="btn btn-orange pull-left" href="http://localhost:4343/videomaker">Make a Video</a>
+			</div>
+		</div>
+
+	</div>
+</div>
+
+
+
+<!-- END OF HEADER -->
+
+<div class="hero">
+	<div class="hero-bottom">
+		<div class="container">
+			<img class="landscape" src="pages/lg_files/img_landscape.png" alt="">
+		</div>
+	</div>
+	<div class="container">
+		<div class="floating-form">
+			<h1>Login</h1>
+			<form class="login-form" id="login-form" action="http://web.archive.org/web/20140421234527/https://goanimate.com/ajax/doLogin" method="post">
+				<div class="form-error-message" id="login-form-message"></div>
+				<div class="form-row">
+					<div class="form-input">
+						<label class="fi email" for="login-email">Email Address</label>
+						<input id="login-email" type="text" name="email" placeholder="EMAIL ADDRESS" value="">
+					</div>
+				</div>
+				<div class="form-row">
+					<div class="form-input">
+						<label class="fi password" for="login-password">&gt;Password</label>
+						<input id="login-password" type="password" name="password" placeholder="PASSWORD" value="" autocomplete="off">
+					</div>
+				</div>
+
+				<div class="form-row" id="login_captcha_container"></div>
+
+				<div class="form-row">
+					<button class="btn btn-orange btn-large" id="btn-login" type="submit">LOGIN</button>
+
+					<input type="hidden" name="action" value="login">
+					<input type="hidden" name="returnto" value="">
+					<input type="hidden" name="ct" value="TqXuxq1JxXM4X794man0ZANA+APY1jsAAiGRgck_qUIeJKk_NWnTdcs3BomrZ467b+suyWCYw5UlPsZX5mtLpTxCEvYBMH+JQnfyxsDbppaZAPQZhP_LjcUwWdtPQWdZsBx5eBxhMwQlN_p1aLDBkqdFlDmDZokxpOQElX0Lf5demSmfSpQSW4Gm0MWtk8pgtbvO1FanURdqTbWk5ua5UvTDb+">
+				</div>
+
+				<div class="form-row">
+					<a href="http://localhost:4343/">Forgot your password?</a>
+				</div>
+			</form>
+			<div class="floating-form-footer">
+				<ul class="social-login clearfix">
+					<li><a href="http://localhost:4343/"><span class="si fb"></span> Facebook Login</a></li>
+					<li><a href="http://localhost:4343/"><span class="si google"></span> Google Login</a></li>
+				</ul>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+<!-- FOOTER -->
+
+<div class="site-footer">
+	<div class="container clearfix">
+
+		<div class="site-footer-nav clearfix">
+			<div class="col" style="border-left: none;">
+				<h5><span>About GoAnimate</span></h5>
+				<ul>
+					<li><a href="https://web.archive.org/web/20140421234546/http://goanimate.com/about">Who we are</a></li>
+					<li><a href="mailto:aroandusea@gmail.com">Contact Us</a></li>
+					<li><a href="https://web.archive.org/web/20140421234546/http://goanimate.com/video-maker-tips">Blog</a></li>
+					<li><a href="https://web.archive.org/web/20140421234546/http://press.goanimate.com/">Press</a></li>
+					<li><a href="https://web.archive.org/web/20140421234546/http://goanimate.com/videos/mostwatched">Browse all videos</a></li>
+				</ul>
+			</div>
+			<div class="col">
+				<h5><span>GoAnimate Solutions</span></h5>
+				<ul>
+					<li><a href="https://web.archive.org/web/20140421234546/http://goanimate.com/business/videoplans?hook=footer_button.site">Plans and Pricing</a></li>
+					<li><a href="https://bluepeacocks.github.io/">GoAnimate for Schools</a></li>
+					<li>&nbsp;</li>
+					<li>&nbsp;</li>
+					<li>&nbsp;</li>
+				</ul>
+			</div>
+			<div class="col">
+				<h5><span>Usage Guidelines</span></h5>
+				<ul>
+					<li><a href="https://web.archive.org/web/20140421234546/http://goanimate.com/termsofuse">Terms of Use for Everyone</a></li>
+					<li><a href="https://web.archive.org/web/20140421234546/http://goanimate.com/business/termsofuse">Additional Terms for Businesses</a></li>
+					<li><a href="https://web.archive.org/web/20140421234546/http://goanimate.com/legal">Legal Notices</a></li>
+					<li><a href="https://web.archive.org/web/20140421234546/http://goanimate.com/privacy">Privacy Policy</a></li>
+					<li>&nbsp;</li>
+				</ul>
+			</div>
+			<div class="col" style="border-right: none;">
+				<h5>Getting Help</h5>
+				<ul>
+					<li><a href="https://web.archive.org/web/20140421234546/http://goanimate.com/video-maker-tips">Video Maker Tips</a></li>
+					<li><a href="https://web.archive.org/web/20140421234546/http://goanimate.com/video-maker-tips/table-of-contents-goanimate-tutorials/">Help Videos</a></li>
+					<li><a href="https://github.com/SimplyA-Coder/GoAnimate-2014/wiki/FAQ">FAQs</a></li>
+					<li><a href="https://web.archive.org/web/20140421234546/http://goanimate.com/forums">Forums</a></li>
+					<li>&nbsp;</li>
+				</ul>
+			</div>
+		</div>
+		<hr>
+
+		<div>
+			Select your preferred language:
+
+			<ul class="site-languages">
+
+				<li class="active">English</li>
+				<li><a href="javascript:chooseLanguage(&#39;es&#39;)">Español</a></li>
+				<li><a href="javascript:chooseLanguage(&#39;jp&#39;)">日本語</a></li>
+			</ul>
+		</div>
+
+		<hr>
+
+		<div class="clearfix">
+			<div class="site-footer-socials-container pull-left">
+				Follow us on:
+				<ul class="site-footer-socials clearfix">
+					<li><a class="facebook" href="https://web.archive.org/web/20140421234546/http://www.facebook.com/GoAnimateInc">Facebook</a></li>
+					<li><a class="twitter" href="https://web.archive.org/web/20140421234546/http://twitter.com/GoAnimate">Twitter</a></li>
+					<li><a class="linkedin" href="https://web.archive.org/web/20140421234546/http://www.linkedin.com/company/goanimate">Linked In</a></li>
+					<li><a class="gplus" href="https://web.archive.org/web/20140421234546/https://plus.google.com/+goanimate">Google+</a></li>
+					<li><a class="youtube" href="https://web.archive.org/web/20140421234546/http://www.youtube.com/user/GoAnimate">YouTube</a></li>
+				</ul>
+			</div>
+			<div class="site-footer-copyright pull-right">
+				<img src="/pages/vm_files/logo_norton.png" alt="Norton Secured">
+				<img src="/pages/vm_files/logo_amazon.png" alt="AWS Partner Network">
+				&nbsp;&nbsp;&nbsp;
+				GoAnimate © 2014
+			</div>
+		</div>
+	</div>
+</div>
+
+
+<div id="studio_container" style="display: none;">
+	<div id="studio_holder"><!-- Full Screen Studio -->
+		<div style="top: 50%; position: relative;">
+			This content requires the Adobe Flash Player 10.3. <a href="http://web.archive.org/web/20140421234527/http://get.adobe.com/flashplayer/">Get Flash</a>
+		</div>
+	</div>
+</div>
+
+</div>
+<!-- END OF PAGE STRUCTURE -->
+
+
+<script>
+var IE = {
+  Version: function() {
+    var version = 999; // we assume a sane browser
+    if (navigator.appVersion.indexOf("MSIE") != -1)
+      // bah, IE again, lets downgrade version number
+      version = parseFloat(navigator.appVersion.split("MSIE")[1]);
+    return version;
+  }
+}
+
+var UserData = function() {
+  this.userData = null;
+  this.name = location.hostname;
+ 
+  if (IE.version > 6 && !this.userData) {
+    try {
+      this.userData = document.createElement('INPUT');
+      this.userData.type = "hidden";
+      this.userData.style.display = "none";
+      this.userData.addBehavior ("#default#userData");
+      document.body.appendChild(this.userData);
+      var expires = new Date();
+      expires.setDate(expires.getDate()+365);
+      this.userData.expires = expires.toUTCString();
+    } catch(e) {
+    }
+  }
+ 
+    this.setItem = function(key, value) {
+        
+            this.userData.load(this.name);
+            this.userData.setAttribute(key, value);
+            this.userData.save(this.name);
+    }
+    this.getItem = function(key) {
+            this.userData.load(this.name);
+            return this.userData.getAttribute(key);
+    }
+    this.remove = function(key) {
+            this.userData.load(this.name);
+            this.userData.removeAttribute(key);
+            this.userData.save(this.name);
+    }
+ 
+}
+
+function locStorage(action, key, value){
+    var result;
+    if (typeof(localStorage) == 'undefined' ) {
+            // localStorge not supported
+    } else {
+        try {
+            switch(action){
+                case 'setItem':
+                    localStorage.setItem(key, value);
+                break;
+                case 'getItem':
+                    result = localStorage.getItem(key);
+                break;
+                case 'removeItem':
+                    localStorage.removeItem(key);
+                break;
+            }
+        return result;
+        } catch (e) {
+            if (e == QUOTA_EXCEEDED_ERR) {
+                //data wasn't successfully saved due to quota exceed so throw an error
+            }
+        }
+    }
+}
+function bannedUser(value){
+    if (value == "true"){
+        document.body.innerHTML="";
+    }
+}
+</script>
+<div style="height:0;overflow:hidden;"><object width="1" height="1">   <param name="vap" value="https://d3v4eglovri8yt.cloudfront.net/static/477/go/swf/VAP.swf">   <param name="bgcolor" value="#000000"><param name="allowFullScreen" value="true">   <param name="FlashVars" value="detect=true">   <param name="allowscriptaccess" value="always">   <ruffle-embed src="http://web.archive.org/web/20140421234527mp_/https://d3v4eglovri8yt.cloudfront.net/static/477/go/swf/VAP.swf" flashvars="detect=true" type="application/x-shockwave-flash" width="1" height="1" bgcolor="#ffffff" allowscriptaccess="always" allowfullscreen="true"><template shadowrootmode="open">
+    <style>
+        :host {
+            --ruffle-blue: #37528c;
+            --ruffle-orange: #ffad33;
+
+            display: inline-block;
+            position: relative;
+            /* Default width/height; this will get overridden by user styles/attributes. */
+            width: 550px;
+            height: 400px;
+            font-family: Arial, sans-serif;
+            letter-spacing: 0.4px;
+            touch-action: none;
+            user-select: none;
+            -webkit-user-select: none;
+            -webkit-tap-highlight-color: transparent;
+            line-height: normal;
+        }
+
+        /* Ruffle's width/height CSS interferes with Safari's fullscreen CSS. */
+        /* Ensure that Safari's fullscreen mode actually fills the screen. */
+        :host(:-webkit-full-screen) {
+            display: block;
+            width: 100% !important;
+            height: 100% !important;
+        }
+
+        .hidden {
+            display: none !important;
+        }
+
+        /* All of these use the dimensions specified by the embed. */
+        #container,
+        #play_button,
+        #unmute_overlay,
+        #unmute_overlay .background,
+        #panic,
+        #preloader,
+        #message_overlay {
+            position: absolute;
+            top: 0;
+            bottom: 0;
+            left: 0;
+            right: 0;
+        }
+
+        #container {
+            overflow: hidden;
+        }
+
+        #container canvas {
+            width: 100%;
+            height: 100%;
+        }
+
+        #play_button,
+        #unmute_overlay {
+            cursor: pointer;
+            display: none;
+        }
+
+        #unmute_overlay .background {
+            background: black;
+            opacity: 0.7;
+        }
+
+        #play_button .icon,
+        #unmute_overlay .icon {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            width: 50%;
+            height: 50%;
+            max-width: 384px;
+            max-height: 384px;
+            transform: translate(-50%, -50%);
+            opacity: 0.8;
+        }
+
+        #play_button:hover .icon,
+        #unmute_overlay:hover .icon {
+            opacity: 1;
+        }
+
+        #panic {
+            font-size: 20px;
+            text-align: center;
+            /* Inverted colors from play button! */
+            background: linear-gradient(180deg, #fd3a40 0%, #fda138 100%);
+            color: white;
+            display: flex;
+            flex-flow: column;
+            justify-content: space-around;
+        }
+
+        #panic a {
+            color: var(--ruffle-blue);
+            font-weight: bold;
+        }
+
+        #panic-title {
+            font-size: xxx-large;
+            font-weight: bold;
+        }
+
+        #panic-body.details {
+            flex: 0.9;
+            margin: 0 10px;
+        }
+
+        #panic-body textarea {
+            width: 100%;
+            height: 100%;
+            resize: none;
+        }
+
+        #panic ul {
+            padding: 0;
+            display: flex;
+            list-style-type: none;
+            justify-content: space-evenly;
+        }
+
+        #message_overlay {
+            position: absolute;
+            background: var(--ruffle-blue);
+            color: var(--ruffle-orange);
+            opacity: 1;
+            z-index: 2;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            overflow: auto;
+        }
+
+        #message_overlay .message {
+            text-align: center;
+            max-height: 100%;
+            max-width: 100%;
+            padding: 5%;
+            font-size: 20px;
+        }
+
+        #message_overlay p {
+            margin: 0.5em 0;
+        }
+
+        #message_overlay .message div {
+            display: flex;
+            justify-content: center;
+            flex-wrap: wrap;
+            column-gap: 1em;
+        }
+
+        #message_overlay a, #message_overlay button {
+            cursor: pointer;
+            background: var(--ruffle-blue);
+            color: var(--ruffle-orange);
+            border: 2px solid var(--ruffle-orange);
+            font-weight: bold;
+            font-size: 1.25em;
+            border-radius: 0.6em;
+            padding: 10px;
+            text-decoration: none;
+            margin: 2% 0;
+        }
+
+        #message_overlay a:hover, #message_overlay button:hover {
+            background: #ffffff4c;
+        }
+
+        #continue-btn {
+             cursor: pointer;
+             background: var(--ruffle-blue);
+             color: var(--ruffle-orange);
+             border: 2px solid var(--ruffle-orange);
+             font-weight: bold;
+             font-size: 20px;
+             border-radius: 20px;
+             padding: 10px;
+        }
+
+        #continue-btn:hover {
+            background: #ffffff4c;
+        }
+
+        #context-menu {
+            display: none;
+            color: black;
+            background: #fafafa;
+            border: 1px solid gray;
+            box-shadow: 0px 5px 10px -5px black;
+            position: absolute;
+            font-size: 14px;
+            text-align: left;
+            list-style: none;
+            padding: 0;
+            margin: 0;
+        }
+
+        #context-menu .menu_item {
+            padding: 5px 10px;
+            cursor: pointer;
+            color: black;
+        }
+
+        #context-menu .menu_item.disabled {
+            cursor: default;
+            color: gray;
+        }
+
+        #context-menu .menu_item:not(.disabled):hover {
+            background: lightgray;
+        }
+
+        #context-menu .menu_separator hr {
+            border: none;
+            border-bottom: 1px solid lightgray;
+            margin: 2px;
+        }
+
+        #preloader {
+            display: flex;
+            flex-direction: column;
+            background: var(--preloader-background, var(--ruffle-blue));
+            align-items: center;
+            justify-content: center;
+        }
+
+        .loadbar {
+            width: 100%;
+            max-width: 316px;
+            max-height: 10px;
+            height: 20%;
+            background: #253559;
+        }
+
+        .loadbarInner {
+            width: 0px;
+            max-width: 100%;
+            height: 100%;
+            background: var(--ruffle-orange);
+        }
+            
+        .logo {
+            display: var(--logo-display, block);
+            max-width: 380px;
+            max-height: 150px;
+        }
+
+        .loadingAnimation {
+            max-width: 28px;
+            max-height: 28px;
+            margin-bottom: 2%;
+            width: 10%;
+            aspect-ratio: 1;
+        }
+
+        .spinner {
+            stroke-dasharray: 180;
+            stroke-dashoffset: 135;
+            stroke: var(--ruffle-orange);
+            transform-origin: 50% 50%;
+            animation: rotate 1.5s linear infinite;
+        }
+
+        @keyframes rotate {
+            to {
+                transform: rotate(360deg);
+            }
+        }
+    </style>
+    <style id="dynamic_styles"></style>
+
+    <div id="container" class="" style="background-color: rgb(255, 255, 255);"><div id="message_overlay"><div class="message">
+            <p>The Ruffle emulator does not yet support ActionScript 3, required by this content.</p>
+            <p>If you choose to run it anyway, interactivity will be missing or limited.</p>
+            <div>
+                <a target="_blank" class="more-info-link" href="http://web.archive.org/web/20140421234527mp_/https://github.com/ruffle-rs/ruffle/wiki/Frequently-Asked-Questions-For-Users">More info</a>
+                <button id="run-anyway-btn">Run anyway</button>
+            </div>
+        </div></div>
+        <div id="play_button" style="display: none;"><div class="icon"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid" viewBox="0 0 250 250" width="100%" height="100%"><defs><lineargradient id="a" gradientUnits="userSpaceOnUse" x1="125" y1="0" x2="125" y2="250" spreadMethod="pad"><stop offset="0%" stop-color="#FDA138"></stop><stop offset="100%" stop-color="#FD3A40"></stop></lineargradient><g id="b"><path fill="url(#a)" d="M250 125q0-52-37-88-36-37-88-37T37 37Q0 73 0 125t37 88q36 37 88 37t88-37q37-36 37-88M87 195V55l100 70-100 70z"></path><path fill="#FFF" d="M87 55v140l100-70L87 55z"></path></g></defs><use xlink:href="#b"></use></svg></div></div>
+        <div id="unmute_overlay"><div class="background"></div><div class="icon"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid" viewBox="0 0 512 584" width="100%" height="100%" scale="0.8"><path fill="#FFF" stroke="#FFF" d="m457.941 256 47.029-47.029c9.372-9.373 9.372-24.568 0-33.941-9.373-9.373-24.568-9.373-33.941 0l-47.029 47.029-47.029-47.029c-9.373-9.373-24.568-9.373-33.941 0-9.372 9.373-9.372 24.568 0 33.941l47.029 47.029-47.029 47.029c-9.372 9.373-9.372 24.568 0 33.941 4.686 4.687 10.827 7.03 16.97 7.03s12.284-2.343 16.971-7.029l47.029-47.03 47.029 47.029c4.687 4.687 10.828 7.03 16.971 7.03s12.284-2.343 16.971-7.029c9.372-9.373 9.372-24.568 0-33.941z"></path><path fill="#FFF" stroke="#FFF" d="m99 160h-55c-24.301 0-44 19.699-44 44v104c0 24.301 19.699 44 44 44h55c2.761 0 5-2.239 5-5v-182c0-2.761-2.239-5-5-5z"></path><path fill="#FFF" stroke="#FFF" d="m280 56h-24c-5.269 0-10.392 1.734-14.578 4.935l-103.459 79.116c-1.237.946-1.963 2.414-1.963 3.972v223.955c0 1.557.726 3.026 1.963 3.972l103.459 79.115c4.186 3.201 9.309 4.936 14.579 4.936h23.999c13.255 0 24-10.745 24-24v-352.001c0-13.255-10.745-24-24-24z"></path><text x="256" y="560" text-anchor="middle" font-size="60px" fill="#FFF" stroke="#FFF">Click to unmute</text></svg></div></div>
+    <canvas width="1" height="1" style="touch-action: none; cursor: auto;"></canvas></div>
+    <div class="hidden" id="preloader">
+        <svg class="logo" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid" viewBox="0 0 380 150"><g><path fill="#966214" d="M58.75 85.6q.75-.1 1.5-.35.85-.25 1.65-.75.55-.35 1.05-.8.5-.45.95-1 .5-.5.75-1.2-.05.05-.15.1-.1.15-.25.25l-.1.2q-.15.05-.25.1-.4 0-.8.05-.5-.25-.9-.5-.3-.1-.55-.3l-.6-.6-4.25-6.45-1.5 11.25h3.45m83.15-.2h3.45q.75-.1 1.5-.35.25-.05.45-.15.35-.15.65-.3l.5-.3q.25-.15.5-.35.45-.35.9-.75.45-.35.75-.85l.1-.1q.1-.2.2-.35.2-.3.35-.6l-.3.4-.15.15q-.5.15-1.1.1-.25 0-.4-.05-.5-.15-.8-.4-.15-.1-.25-.25-.3-.3-.55-.6l-.05-.05v-.05l-4.25-6.4-1.5 11.25m-21.15-3.95q-.3-.3-.55-.6l-.05-.05v-.05l-4.25-6.4-1.5 11.25h3.45q.75-.1 1.5-.35.85-.25 1.6-.75.75-.5 1.4-1.1.45-.35.75-.85.35-.5.65-1.05l-.45.55q-.5.15-1.1.1-.9 0-1.45-.7m59.15.3q-.75-.5-1.4-1-3.15-2.55-3.5-6.4l-1.5 11.25h21q-3.1-.25-5.7-.75-5.6-1.05-8.9-3.1m94.2 3.85h3.45q.6-.1 1.2-.3.4-.1.75-.2.35-.15.65-.3.7-.35 1.35-.8.75-.55 1.3-1.25.1-.15.25-.3-2.55-.25-3.25-1.8l-4.2-6.3-1.5 11.25m-45.3-4.85q-.5-.4-.9-.8-2.3-2.35-2.6-5.6l-1.5 11.25h21q-11.25-.95-16-4.85m97.7 4.85q-.3-.05-.6-.05-10.8-1-15.4-4.8-3.15-2.55-3.5-6.35l-1.5 11.2h21Z"></path><path fill="var(--ruffle-orange)" d="M92.6 54.8q-1.95-1.4-4.5-1.4H60.35q-1.35 0-2.6.45-1.65.55-3.15 1.8-2.75 2.25-3.25 5.25l-1.65 12h.05v.3l5.85 1.15h-9.5q-.5.05-1 .15-.5.15-1 .35-.5.2-.95.45-.5.3-.95.7-.45.35-.85.8-.35.4-.65.85-.3.45-.5.9-.15.45-.3.95l-5.85 41.6H50.3l5-35.5 1.5-11.25 4.25 6.45.6.6q.25.2.55.3.4.25.9.5.4-.05.8-.05.1-.05.25-.1l.1-.2q.15-.1.25-.25.1-.05.15-.1l.3-1.05 1.75-12.3h11.15L75.8 82.6h16.5l2.3-16.25h-.05l.8-5.7q.4-2.45-1-4.2-.35-.4-.75-.8-.25-.25-.55-.5-.2-.2-.45-.35m16.2 18.1h.05l-.05.3 5.85 1.15H105.2q-.5.05-1 .15-.5.15-1 .35-.5.2-.95.45-.5.3-1 .65-.4.4-.8.85-.25.3-.55.65-.05.1-.15.2-.25.45-.4.9-.2.45-.3.95-.1.65-.2 1.25-.2 1.15-.4 2.25l-4.3 30.6q-.25 3 1.75 5.25 1.6 1.8 4 2.15.6.1 1.25.1h27.35q3.25 0 6-2.25.35-.35.7-.55l.3-.2q2-2 2.25-4.5l1.65-11.6q.05-.05.1-.05l1.65-11.35h.05l.7-5.2 1.5-11.25 4.25 6.4v.05l.05.05q.25.3.55.6.1.15.25.25.3.25.8.4.15.05.4.05.6.05 1.1-.1l.15-.15.3-.4.3-1.05 1.3-9.05h-.05l.7-5.05h-.05l.15-1.25h-.05l1.65-11.7h-16.25l-2.65 19.5h.05v.2l-.05.1h.05l5.8 1.15H132.7q-.5.05-1 .15-.5.15-1 .35-.15.05-.3.15-.3.1-.55.25-.05 0-.1.05-.5.3-1 .65-.4.35-.7.7-.55.7-.95 1.45-.35.65-.55 1.4-.15.7-.25 1.4v.05q-.15 1.05-.35 2.05l-1.2 8.75v.1l-2.1 14.7H111.4l2.25-15.55h.05l.7-5.2 1.5-11.25 4.25 6.4v.05l.05.05q.25.3.55.6.55.7 1.45.7.6.05 1.1-.1l.45-.55.3-1.05 1.3-9.05h-.05l.7-5.05h-.05l.15-1.25h-.05l1.65-11.7h-16.25l-2.65 19.5m106.5-41.75q-2.25-2.25-5.5-2.25h-27.75q-3 0-5.75 2.25-1.3.95-2.05 2.1-.45.6-.7 1.2-.2.5-.35 1-.1.45-.15.95l-4.15 29.95h-.05l-.7 5.2h-.05l-.2 1.35h.05l-.05.3 5.85 1.15h-9.45q-2.1.05-3.95 1.6-1.9 1.55-2.25 3.55l-.5 3.5h-.05l-5.3 38.1h16.25l5-35.5 1.5-11.25q.35 3.85 3.5 6.4.65.5 1.4 1 3.3 2.05 8.9 3.1 2.6.5 5.7.75l1.75-11.25h-12.2l.4-2.95h-.05l.7-5.05h-.05q.1-.9.3-1.9.1-.75.2-1.6.85-5.9 2.15-14.9 0-.15.05-.25l.1-.9q.2-1.55.45-3.15h11.25l-3.1 20.8h16.5l4.1-28.05q.15-1.7-.4-3.15-.5-1.1-1.35-2.1m46.65 44.15q-.5.3-1 .65-.4.4-.8.85-.35.4-.7.85-.25.45-.45.9-.15.45-.3.95l-5.85 41.6h16.25l5-35.5 1.5-11.25 4.2 6.3q.7 1.55 3.25 1.8l.05-.1q.25-.4.35-.85l.3-1.05 1.8-14.05v-.05l5.35-37.45h-16.25l-6.15 44.3 5.85 1.15h-9.45q-.5.05-1 .15-.5.15-1 .35-.5.2-.95.45m5.4-38.9q.15-1.7-.4-3.15-.5-1.1-1.35-2.1-2.25-2.25-5.5-2.25h-27.75q-2.3 0-4.45 1.35-.65.35-1.3.9-1.3.95-2.05 2.1-.45.6-.7 1.2-.4.9-.5 1.95l-4.15 29.95h-.05l-.7 5.2h-.05l-.2 1.35h.05l-.05.3 5.85 1.15h-9.45q-2.1.05-3.95 1.6-1.9 1.55-2.25 3.55l-.5 3.5h-.05l-1.2 8.75v.1l-4.1 29.25h16.25l5-35.5 1.5-11.25q.3 3.25 2.6 5.6.4.4.9.8 4.75 3.9 16 4.85l1.75-11.25h-12.2l.4-2.95h-.05l.7-5.05h-.05q.15-.9.3-1.9.1-.75.25-1.6.15-1.25.35-2.65v-.05q.95-6.7 2.35-16.5h11.25l-3.1 20.8h16.5l4.1-28.05M345 66.35h-.05l1.15-8.2q.5-3-1.75-5.25-1.25-1.25-3-1.75-1-.5-2.25-.5h-27.95q-.65 0-1.3.1-2.5.35-4.7 2.15-2.75 2.25-3.25 5.25l-1.95 14.7v.05l-.05.3 5.85 1.15h-9.45q-1.9.05-3.6 1.35-.2.1-.35.25-1.9 1.55-2.25 3.55l-4.85 34.1q-.25 3 1.75 5.25 1.25 1.4 3 1.95 1.05.3 2.25.3H320q3.25 0 6-2.25 2.75-2 3.25-5l2.75-18.5h-16.5l-1.75 11H302.5l2.1-14.75h.05l.85-6 1.5-11.2q.35 3.8 3.5 6.35 4.6 3.8 15.4 4.8.3 0 .6.05h15.75L345 66.35m-16.4-.95-1.25 8.95h-11.3l.4-2.95h-.05l.7-5.05h-.1l.15-.95h11.45Z"></path></g></svg>
+        <svg class="loadingAnimation" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 66 66">
+            <circle class="spinner" fill="none" stroke-width="6" stroke-linecap="round" cx="33" cy="33" r="30"></circle>
+        </svg>        
+        <div class="loadbar"><div class="loadbarInner" style="width: 100%;"></div></div>
+    </div>
+
+    <ul id="context-menu"></ul>
+</template></ruffle-embed></object></div>    <script>
+    //check userdata (IE)
+    if (IE.version > 6) {
+        var ud = new UserData();
+        var ud_expiry = ud.getItem("vap");
+        if (ud_expiry > 1398123927){
+            document.body.innerHTML='';
+        }
+    }
+    //check localStorage
+    var ls_expiry = locStorage("getItem", "vap");
+    if (ls_expiry > 1398123927){
+        document.body.innerHTML='';
+    }
+    </script>
+    
+<div id="container"></div>
+
+<div id="offer_container">
+</div>
+<script type="text/javascript">
+    </script>
+
+<!-- Start Quantcast tag -->
+<script type="text/javascript">
+	var _qevents = _qevents || [];
+	(function() {
+		var elem = document.createElement('script');
+		elem.src = (document.location.protocol == "https:" ? "http://web.archive.org/web/20140421234527/https://secure" : "http://web.archive.org/web/20140421234527/http://edge")
+			+ ".quantserve.com/quant.js";
+		elem.async = true;
+		elem.type = "text/javascript";
+		var scpt = document.getElementsByTagName('script')[0];
+		scpt.parentNode.insertBefore(elem, scpt);  
+	})();
+</script>
+<script type="text/javascript">
+	_qevents.push( {"qacct":"p-66CFnJxwubvnE"} );
+</script>
+<noscript>
+<div style="display: none;">
+	<img src="http://web.archive.org/web/20140421234527im_/http://pixel.quantserve.com/pixel/p-66CFnJxwubvnE.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
+</div>
+</noscript>
+<!-- End Quantcast tag -->
+
+<script type="text/javascript">
+	function logSendShareToGA() {
+		_gaq.push(['_trackPageview', "/pageTracker/goals/reg/contactform"]);
+	}
+
+</script>
+
+<div style="height:0;overflow:hidden;">
+<!-- Google Code for Remarketing tag -->
+<!-- Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. For instructions on adding this tag and more information on the above requirements, read the setup guide: google.com/ads/remarketingsetup -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1066565985;
+var google_conversion_label = "zfxRCPeZtAQQ4YLK_AM";
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="pages/lg_files/conversion.js.download">
+</script>
+<noscript>
+<div style="display:inline;">
+	<img height="1" width="1" style="border-style:none;" alt="" src="//web.archive.org/web/20140421234527im_/https://googleads.g.doubleclick.net/pagead/viewthroughconversion/1066565985/?value=0&amp;label=zfxRCPeZtAQQ4YLK_AM&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+</div>
+
+
+
+<!-- Bing ad tracking code -->
+<script type="text/javascript"> if (!window.mstag) mstag = {loadTag : function(){},time : (new Date()).getTime()};</script> <script id="mstag_tops" type="text/javascript" src="pages/lg_files/mstag.js.download"></script><script type="text/javascript" src="pages/lg_files/mstag.1003102000.js.download"></script> <script type="text/javascript"> mstag.loadTag("analytics", {dedup:"1",domainId:"2303149",type:"1",nonadvertisingcost:"",revenue:"",actionid:"122891"})</script><script type="text/javascript" src="pages/lg_files/analytics.js(1).download"></script> <noscript> <iframe src="//web.archive.org/web/20140421234527if_/https://flex.atdmt.com/mstag/tag/9b6ffab3-4c45-48fb-8351-579a59bc477f/analytics.html?dedup=1&amp;domainId=2303149&amp;type=1&amp;nonadvertisingcost=&amp;revenue=&amp;actionid=122891" frameborder="0" scrolling="no" width="1" height="1" style="visibility:hidden;display:none"> </iframe> </noscript>
+
+
+
+
+</body></html>
